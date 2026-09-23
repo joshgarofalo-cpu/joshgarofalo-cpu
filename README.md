@@ -7,4 +7,4 @@ Finance grad from BYU-Idaho, based in the Orlando area. I like building things t
 - Co-founded Mana Mats, a small online store (about $1,000 in sales)
 - Built Orbit, a life management app that pulls in Destiny 2 data, with Claude Code
 
-**See my work:** [portfolio](https://github.com/joshgarofalo-cpu/portfolio) · **LinkedIn:** (add link)
+**See my work:** [portfolio](https://github.com/joshgarofalo-cpu/portfolio) · **LinkedIn:** [mjgarofalo](https://www.linkedin.com/in/mjgarofalo/)
